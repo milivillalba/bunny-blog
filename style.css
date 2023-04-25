@@ -5,3 +5,22 @@ main{
     background: rgb(238,174,202);
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 }
+.carousel-inner{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+
+}
+article>div{
+    background: rgb(150,58,180);
+ background: linear-gradient(90deg, rgba(150,58,180,1) 0%, rgba(253,29,90,1) 50%, rgba(252,69,143,1) 100%);
+ 
+}
+footer{
+    background: rgb(199,151,179);
+ background: radial-gradient(circle, rgba(199,151,179,1) 0%, rgba(230,5,74,1) 100%);
+ 
+}
+a{
+    text-decoration: none;
+}
